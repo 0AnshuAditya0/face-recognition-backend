@@ -2,7 +2,7 @@
 flask==3.0.0
 flask-cors==4.0.0
 face-recognition==1.3.0
-dlib==19.24.2
+dlib-bin
 cmake==3.27.7
 numpy==1.26.4
 opencv-python-headless==4.8.1.78
